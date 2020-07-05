@@ -1,0 +1,120 @@
+.postHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.postAvatar {
+  height: 4rem !important;
+  width: 4rem !important;
+  border-radius: 4rem !important;
+}
+
+.postAuthor {
+  padding: 1rem;
+  font-weight: bold;
+}
+
+.postBody {
+  padding: 1rem 0 1rem 0;
+}
+
+.postFeedComments {
+  display: flex;
+  flex-direction: column;
+}
+
+.postFeedComment {
+  margin-bottom: .5rem;
+}
+
+.postActions {
+  display: flex;
+  flex-direction: row;
+}
+
+.commentAvatar {
+  height: 2rem !important;
+  width: 2rem !important;
+  border-radius: 2rem !important;
+  margin-right: .5rem !important;
+}
+
+.commentButton, .likeButton, .followButton, .deleteButton {
+  margin-right: 1rem;
+  border: none !important;
+}
+
+.likeButton, .commentButton, .deleteButton, .followButton{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 3rem;
+  border: none !important;
+}
+
+.deleteButton{
+  margin-left: auto;
+}
+.fadeIn {
+  animation: fadeIn ease .5s;
+}
+
+.viewComments {
+  color: #03a5fc;
+}
+
+.liked {
+  color: #bf375b;
+}
+
+.followed {
+  color: green;
+}
+
+.fadeOut {
+  animation: fadeOut ease .5s;
+}
+
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@keyframes fadeOut {
+  100% {opacity:1;}
+  0% {opacity:0;}
+}
+
+.likeButton:hover{
+  color: #bf375b;
+  background-color: rgba(255, 43, 184, 0.1);
+  border: none !important;
+  cursor: pointer;
+}
+
+.commentButton:hover{
+  color: #03a5fc;
+  background-color: rgba(0, 100, 255, 0.1);
+  border: none !important;
+  cursor: pointer;
+}
+
+.deleteButton:hover{
+  color: white;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: none !important;
+  cursor: pointer;
+}
+
+.followButton:hover{
+  color: green;
+  background-color: rgba(0, 255, 0, 0.1);
+  border: none !important;
+  cursor: pointer;
+}

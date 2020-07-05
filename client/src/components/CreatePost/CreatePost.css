@@ -1,0 +1,32 @@
+.createPost {
+  padding: 1rem 0 1rem 0;
+}
+
+.createPostActions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.button {
+  margin-left: auto !important;
+}
+
+.actions {
+  padding-right: 16px !important;
+  padding-left: 16px !important;
+}
+
+.createPostInput {
+  border-color: black !important;
+}
+
+.createPostButton {
+  margin-left: 1rem;
+}
+
+.createPostCharsRemaining {
+  color: grey;
+}

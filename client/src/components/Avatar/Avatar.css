@@ -1,0 +1,17 @@
+.small {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  border-radius: 2.5rem !important;
+}
+
+.medium {
+  width: 5rem !important;
+  height: 5rem !important;
+  border-radius: 5rem !important;
+}
+
+.large {
+  width: 7.5rem !important;
+  height: 7.5rem !important;
+  border-radius: 7.5rem !important;
+}
