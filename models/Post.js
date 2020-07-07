@@ -28,6 +28,7 @@ const PostSchema = new Schema({
     body: String,
     author: String,
     authorId: String,
+    authorProfilePic: String,
     date: Date
   }]
 });
