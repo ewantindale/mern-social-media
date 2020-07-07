@@ -21,7 +21,7 @@
 
 ### Screenshots
 
-<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/login.png" alt="alt text" width="40%" height="40%">
-<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/feed.png" alt="alt text" width="40%" height="40%">
-<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/likeAndComment.png" alt="alt text" width="40%" height="40%">
-<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/editProfileModal.png" alt="alt text" width="40%" height="40%">
+<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/login.png" alt="alt text">
+<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/feed.png" alt="alt text">
+<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/likeAndComment.png" alt="alt text">
+<img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/editProfileModal.png" alt="alt text">
