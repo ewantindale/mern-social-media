@@ -21,7 +21,14 @@
 
 ### Screenshots
 
+#### Login
 <img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/login.png" alt="alt text">
+
+#### Posts feed
 <img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/feed.png" alt="alt text">
+
+#### Like and comment
 <img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/likeAndComment.png" alt="alt text">
+
+#### Edit profile
 <img src="https://github.com/ewantindale/mern-social-media/blob/master/screenshots/editProfileModal.png" alt="alt text">
