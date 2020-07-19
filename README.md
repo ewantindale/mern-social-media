@@ -1,3 +1,5 @@
+New and improved version of this project: [https://github.com/ewantindale/Social2](https://github.com/ewantindale/Social2)
+
 # MERN Social Media App
 
 [:star:LIVE DEMO on Heroku:star:](https://historic-kings-canyon-01988.herokuapp.com)
